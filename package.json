@@ -1,0 +1,22 @@
+{
+  "name": "testpage",
+  "version": "1.0.0",
+  "description": "I just needed a thing to test some stuffs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivarni/testpage.git"
+  },
+  "author": "Ivar Nilsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivarni/testpage/issues"
+  },
+  "homepage": "https://github.com/ivarni/testpage#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
